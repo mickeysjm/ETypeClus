@@ -1,6 +1,6 @@
 # ETypeClus
 
-This repository contains the code and data for EMNLP 2021 paper "Corpus-based Open-Domain Event Type Induction"
+This repository contains the code and data for EMNLP 2021 paper "[Corpus-based Open-Domain Event Type Induction](https://arxiv.org/pdf/2109.03322.pdf)".
 
 ## Datasets and Resources
 
