@@ -4,7 +4,7 @@ This repository contains the code and data for EMNLP 2021 paper "[Corpus-based O
 
 ## Datasets and Resources
 
-Please download the datasets and related resources at: [https://drive.google.com/drive/folders/1_QVv9XwN6PjZGdeMJWqW5D75NJmaD6F1?usp=sharing](https://drive.google.com/drive/folders/1_QVv9XwN6PjZGdeMJWqW5D75NJmaD6F1?usp=sharing)
+Please download the datasets and related resources at: [https://drive.google.com/drive/folders/1_QVv9XwN6PjZGdeMJWqW5D75NJmaD6F1?usp=sharing](https://drive.google.com/drive/folders/1-oqDLwlt94dFqAYDh6hhIbjt852_qCm7?usp=sharing)
 
 * Each dataset has its own subfolder, e.g., **./covid19/** and **./pandemic/**.
 * The verb sense dictionary and background corpus statistics are placed under **./resources/** subfolder.
